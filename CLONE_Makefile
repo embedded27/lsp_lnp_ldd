@@ -1,0 +1,4 @@
+all: clone1
+
+clean:
+	$(RM) clone1

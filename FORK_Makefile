@@ -1,0 +1,5 @@
+CFLAGS = -O0 -g
+all: forktest1 forktest2
+
+clean:
+	$(RM) forktest1 forktest2
